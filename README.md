@@ -1,8 +1,4 @@
-Absolutely — this is where you convert your technical work into a **credible, portfolio-grade asset**. A strong README is not decoration; it’s your **product narrative + technical proof + hiring signal**.
 
-Below is a **clean, professional, industry-level README** tailored to your project. You can paste this directly into your GitHub repository.
-
----
 
 # 🧠 Alzheimer’s Disease Diagnosis Detection using Machine Learning
 
